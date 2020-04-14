@@ -1,0 +1,28 @@
+Mahout 0.9
+	- Decision Tree: https://mahout.apache.org/docs/0.13.0/api/docs/mahout-mr/org/apache/mahout/classifier/df/builder/DefaultTreeBuilder.html
+	- FP-Growth: https://archive.cloudera.com/cdh5/cdh/5/mahout/mahout-core/org/apache/mahout/fpm/pfpgrowth/fpgrowth/FPGrowth.html
+	- k-Means: https://mahout.apache.org/docs/0.13.0/api/docs/mahout-mr/org/apache/mahout/clustering/kmeans/KMeansDriver.html
+	
+Python 3
+	- Decision Tree: https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+	- FP-Growth: https://fp-growth.readthedocs.io/en/latest/
+	- k-Means: https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+	- Linear Regression: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+	
+R
+	- Decision Tree: https://cran.r-project.org/web/packages/rpart/
+	- FP-Growth: https://cran.r-project.org/web/packages/arules/index.html
+	- k-Means: https://cran.r-project.org/web/packages/LICORS/index.html
+	- Linear Regression: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm
+	
+Spark
+	- Decision Tree: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/classification/DecisionTreeClassifier.html
+	- FP-Growth: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/fpm/FPGrowth.html
+	- k-Means: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/clustering/KMeans.html
+	- Linear Regression: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/regression/LinearRegression.html
+	
+WEKA
+	- Decision Tree: http://weka.sourceforge.net/doc.dev/weka/classifiers/trees/RandomTree.html
+	- FP-Growth: https://weka.sourceforge.io/doc.dev/weka/associations/FPGrowth.html
+	- k-Means: https://weka.sourceforge.io/doc.dev/weka/clusterers/SimpleKMeans.html
+	- Linear Regression: https://weka.sourceforge.io/doc.dev/weka/classifiers/functions/LinearRegression.html
