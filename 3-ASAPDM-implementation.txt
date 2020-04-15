@@ -15,11 +15,11 @@ R 3.4.4
 	- k-Means: https://cran.r-project.org/web/packages/LICORS/index.html
 	- Linear Regression: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm
 	
-Spark 2.2.0 Release 2
-	- Decision Tree: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/classification/DecisionTreeClassifier.html
-	- FP-Growth: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/fpm/FPGrowth.html
-	- k-Means: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/clustering/KMeans.html
-	- Linear Regression: https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/regression/LinearRegression.html
+Spark 2.4.0-cdh6.2.0
+	- Decision Tree: https://spark.apache.org/docs/2.4.0/api/java/org/apache/spark/ml/classification/DecisionTreeClassifier.html
+	- FP-Growth: https://spark.apache.org/docs/2.4.0/api/java/org/apache/spark/ml/fpm/FPGrowth.html
+	- k-Means: https://spark.apache.org/docs/2.4.0/api/java/org/apache/spark/ml/clustering/KMeans.html
+	- Linear Regression: https://spark.apache.org/docs/2.4.0/api/java/org/apache/spark/ml/regression/LinearRegression.html
 	
 WEKA 3.8.2
 	- Decision Tree: http://weka.sourceforge.net/doc.dev/weka/classifiers/trees/RandomTree.html
