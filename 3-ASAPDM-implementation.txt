@@ -11,7 +11,6 @@ Python 2.7
 	
 R 3.4.4
 	- Decision Tree: https://cran.r-project.org/web/packages/rpart/
-	- FP-Growth: https://cran.r-project.org/web/packages/arules/index.html
 	- k-Means: https://cran.r-project.org/web/packages/LICORS/index.html
 	- Linear Regression: https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/lm
 	
